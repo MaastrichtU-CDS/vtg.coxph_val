@@ -2,7 +2,7 @@
 
 ## Repo Description
 
-This repo contains the validation scripts for the Federated Cox Regression Algorithm https://github.com/IKNL/vtg.coxph. 
+This repo contains the validation scripts for the Federated Cox Regression Algorithm https://github.com/IKNL/vtg.coxph. Works with Vantage v2.3.4
 
 - Input -- Beta Values Obtained from Training the Cox Regression Algorithm. <br/>
 - Output -- Concordance Index
