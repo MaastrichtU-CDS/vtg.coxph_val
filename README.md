@@ -21,7 +21,7 @@ The code supplied in the repository comes with a data filtering script that is c
 
 ## Using the code with Vantage6 Infrastructure
 
-An example Jupyter Notebook can be found here
+An example Jupyter Notebook can be found [here](https://github.com/MaastrichtU-CDS/vtg.coxph_val/blob/main/atomCAT2validation.ipynb)
 
 
   
