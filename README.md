@@ -4,7 +4,7 @@
 
 This repo contains the validation scripts for the Federated Cox Regression Algorithm https://github.com/IKNL/vtg.coxph. 
 
-Input -- Beta Values Obtained from Training the Cox Regression Algorithm /n
+Input -- Beta Values Obtained from Training the Cox Regression Algorithm.
 Output -- Concordance Index
 
 ## Dockerizing the algorithm
